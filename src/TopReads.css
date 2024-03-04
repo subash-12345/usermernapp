@@ -1,0 +1,85 @@
+.Read{
+    margin-top: 10px;
+    margin-left: 150px;
+    display: flex;
+}
+.TO{
+    display: flex;
+    margin-top: 30px;
+}
+
+.TOPR{
+    color:rgb(50, 63, 89);
+    padding-left: 160px;
+}
+
+
+.TOP{
+    color:rgb(50, 63, 89);
+    padding-left:430px;
+}
+
+.TopReads{
+    width: 530px;
+    height: 467px ;
+    background-color:rgb(255, 255, 255);
+    border-radius: 20px;
+    border-style:solid;
+    border-color:rgb(212, 212, 212);
+    border-width:1px
+}
+.TOPREAD{
+    margin-top: 60px;
+}
+
+.one{
+    display: flex;
+    
+    
+}
+.para{
+    padding-left: 70px;
+    margin-top: 0px;
+    color: rgb(175, 168, 168);
+}
+
+.N{
+    padding-top: 20px;
+    padding-left: 25px;
+}
+
+.C{
+    padding-left: 30px;
+    padding-top: 10px;
+    padding-right: 40px;
+}
+
+.E{
+    padding-right: 100px;
+}
+
+.watch{
+    width: 530px;
+    height: 467px ;
+    background-color:rgb(255, 255, 255);
+    border-radius: 20px;
+    border-style:solid;
+    border-color:rgb(212, 212, 212);
+    border-width:1px;
+    margin-left: 15px;
+}
+.custom-iframe{
+      width:529px;
+      height: 300px;
+      border-radius: 20px;
+      border-style:solid;
+      border-color: grey;
+      border-width:1px;
+}
+.strug{
+    padding-left: 20px;
+}
+.min{
+    padding-left: 20px;
+    color: rgb(140, 140, 140);
+}

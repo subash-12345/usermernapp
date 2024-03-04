@@ -1,0 +1,87 @@
+.MP{
+    color: rgb(33, 47, 77);
+    padding-left: 160px;
+    padding-top: 40px;
+}
+.cont{
+    display: flex;
+}
+.container{   
+    margin-left: 151px
+}
+.container2{   
+    margin-left: 40px
+}
+.container3{   
+    margin-left: 40px
+}
+
+.card{
+    width: 300px;
+    background-color: rgb(255, 255, 255);
+    border-style: solid;
+    border-radius: 20px;
+    border-width:2px;
+    border-color: grey;  
+}
+.C1{
+    width: 300px;
+    height: 200px;
+}
+.C2 {
+    width: 300px;
+    height: 200px;
+}
+
+.C3{
+    width: 300px;
+    height: 200px;
+}
+.card .image-box{
+    height: 200px;
+  
+
+}
+
+.card .image-box .C1{
+    height: 100%;
+     
+}
+
+.Title{
+    padding-left: 15px;
+}
+
+.doctor{
+    width: 25px;
+    height: 25px;
+    display: inline;
+}
+
+.logoimg{
+    margin-top: 5px;
+    margin-left: 8px;
+    display: flex;
+}
+.medically{
+    margin-top: 0%;
+    margin-left: 10px;
+}
+.anticons{
+    display: flex;
+    margin-left: 10px;
+}
+.grey{
+    margin-top: 0%;
+    padding-left: 7px;
+}
+.likeann{
+    margin-bottom: 15px;
+}
+.likean{
+     margin-top: 0px;
+}
+
+.LIFESTYLE{
+   padding-left: 10px;
+}

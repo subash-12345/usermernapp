@@ -1,0 +1,83 @@
+
+.wse{
+    margin-top: 60px;
+}
+
+.Bname{
+    color: (0, 0, 0);
+    margin-left: 160px;
+
+}
+
+.BROW{
+   display: flex;
+   margin-left: 10px;
+}
+
+.BROWSECIRCLE{
+    height: 90px;
+    width: 170px;
+    margin-left: 175px;
+    margin-top: 10px;
+}
+.BROWS{
+    height: 90px;
+    width: 170px;
+    margin-top: 10px;
+}
+.BR{
+    height: 90px;
+    width: 170px;
+    margin-top: 10px;
+}
+.ii{
+    height: 96px;
+    width: 96px;
+    border-radius: 50%;
+    border-style: solid;
+    border-color:rgb(212, 212, 212);
+    border-width:3px;
+}
+
+.is{
+    height: 96px;
+    width: 96px;
+    border-radius: 50%;
+    border-style: solid;
+    border-color:rgb(212, 212, 212);
+    border-width:3px;
+}
+
+.iu{
+    height: 96px;
+    width: 96px;
+    border-radius: 50%;
+    border-style: solid;
+    border-color:rgb(212, 212, 212);
+    border-width:3px;
+}
+.underline{
+    text-decoration: none;
+}
+.infor{
+    color: gray;
+}
+.Dia{
+    display: flex;
+}
+.D1{
+    margin-left: 200px;
+    width: 100px;
+    margin-top: 0%;
+}
+.D2{
+    margin-left: 60px;
+    width: 120px;
+}
+.D3{
+    margin-left: 60px;
+    width: 140px;
+}
+.wse{
+    
+}

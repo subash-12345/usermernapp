@@ -1,0 +1,64 @@
+
+.imgss{
+    width: 304px;
+    height: 170px ;
+    border-radius: 20px;
+    border-style:solid;
+    border-color:rgb(212, 212, 212);
+    border-width:1px;
+    padding-left: 0%;
+    margin-left: 140px;
+    box-shadow: 3px 3px gray;
+}
+
+.ims{
+    width: 304px;
+    height: 170px ;
+    border-radius: 20px;
+    border-style:solid;
+    border-color:rgb(212, 212, 212);
+    border-width:1px;
+    padding-left: 0%;
+    margin-left: 50px;
+    box-shadow: 3px 3px gray;
+}
+
+.igs{
+    width: 304px;
+    height: 170px ;
+    border-radius: 20px;
+    border-style:solid;
+    border-color:rgb(212, 212, 212);
+    border-width:1px;
+    padding-left: 0%;
+    margin-left: 50px;
+    box-shadow: 3px 3px gray;
+}
+
+.feature{
+    color:rgb(33, 47, 77);
+    padding-left:160px;
+    
+}
+
+.Topi{
+    display: flex;
+}
+
+.symp{
+    padding-left: 150px;
+    width: 315px;
+}
+
+.Best{
+    padding-left: 30px;
+    width: 315px;
+}
+
+.Macular{
+    padding-left: 50px;
+    width: 315px;
+}
+.featuredTOPI{
+    margin-top: 80px;
+}
